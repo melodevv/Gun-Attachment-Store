@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingChallenge", "ProgrammingChallenge.csproj", "{73F0786E-BB37-4143-B697-ED1C8B9EA103}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunAttachmentStore", "GunAttachmentStore.csproj", "{73F0786E-BB37-4143-B697-ED1C8B9EA103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

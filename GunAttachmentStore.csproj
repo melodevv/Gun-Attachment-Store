@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{73F0786E-BB37-4143-B697-ED1C8B9EA103}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProgrammingChallenge</RootNamespace>
-    <AssemblyName>ProgrammingChallenge</AssemblyName>
+    <RootNamespace>GunAttachmentStore</RootNamespace>
+    <AssemblyName>GunAttachmentStore</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

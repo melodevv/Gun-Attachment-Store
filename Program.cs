@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 //Date:17 June 2020
 //Programming Challenge
 
-namespace ProgrammingChallenge
+namespace GunAttachmentStore
 {   
     class Program
     {
