@@ -3,10 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Programmer: T Direko
-//Student Number: 220030521
-//Date:17 June 2020
-//Programming Challenge
 
 namespace GunAttachmentStore
 {   
